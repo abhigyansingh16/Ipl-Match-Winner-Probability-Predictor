@@ -5,11 +5,11 @@ We leverage historical data and regression models to estimate winning probabilit
 # Language 
 python
 # Libraries
-pandas
-Scikit-learn
-Streamlit
+pandas,
+Scikit-learn,
+Streamlit,
 Numpy
 # Algorithms
-Logistic Regression
+Logistic Regression,
 Random Forest Classifier
 
